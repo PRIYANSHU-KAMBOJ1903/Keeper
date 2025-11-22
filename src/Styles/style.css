@@ -4,14 +4,13 @@
   box-sizing: border-box;
   
 }
-body{
-  overflow: hidden;
-}
 html {
   font-family: "Montserrat", sans-serif;
 }
 body {
+   overflow: hidden;
   background: #eee;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
   padding: 0 16px;
 }
 
